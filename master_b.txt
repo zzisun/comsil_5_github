@@ -1,2 +1,2 @@
-I like apple.
-I like tomato, too.
+I don't like apple.
+I don't like tomato, too.
