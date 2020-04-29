@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Users\킹지선\Desktop\project1_20171624_김지선.c">
+    <ClCompile Include="project1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
